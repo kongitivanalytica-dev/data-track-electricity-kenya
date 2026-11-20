@@ -1,0 +1,13 @@
+.venv/
+.venv-win/
+__pycache__/
+*.py[cod]
+
+live/
+logs/
+output/
+
+guide.txt
+.env
+.env.*
+!.env.example
